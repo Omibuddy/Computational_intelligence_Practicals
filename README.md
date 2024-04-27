@@ -1,5 +1,6 @@
 # Distrinted_Computing_Practicals
 The concept of Computational Intelligence builds on many existing technologies such as artificial intelligence, machine learning, data mining and optimisation algorithms. 
+
 Title: Distributed Application using RPC for Remote ComputationProblem Statement: Design a distributed application using RPC for remote computation where client submits an integer value to the server and server calculates factorial and returns the result to the client program.
 Theory:Remote Procedure Call (RPC) is a powerful mechanism for enabling communication between processes or programs across a network. It allows a client program to execute procedures or functions on a remote server as if they were local, abstracting away the complexities of network communication.
 RPC Components:• Client: The program that initiates the RPC call.• 
